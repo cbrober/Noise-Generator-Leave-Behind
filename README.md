@@ -10,6 +10,17 @@ Initial setup considerations:
 For the initial set up it is helpful to have peripherals available. 
 You can do this headless, so your pi image does not need to be a full desktop. This may be more beneficial to reduce the amount of processing required and also minimize the confusion on file placement. 
 
+
+(update)
+Because the concept worked with the PI 4B I will be adding a section for the smaller form factor build.
+I am build that with RP2040 boards with 16mb flash storage (6-12 mins of audio depending on the build), FORIOT 18650 single compartment battery bank (this allows for the always on feature), MAX98357A I2S 3W amp, and 3W 4Ohm micro speakers. 
+
+
+
+
+
+
+
 Expanse ideas:
 Again this was intended to be quickly built in an hour as required for the exercise I am about to do, but.... here are some things I would add if there was more time.
 
