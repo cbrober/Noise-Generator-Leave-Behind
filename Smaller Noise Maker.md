@@ -1,3 +1,6 @@
+#this is not yet complete, my hardware gets here next week. I will finish it then.
+
+
 # RP2040 
 
 This project is going to be a bit more involved than the previous because it does not have the more advanced computing ability that exists natively in the pi desktop. Here we will actually need to build the software that runs the whole operation. 
