@@ -1,4 +1,4 @@
-#this is not yet complete, my hardware gets here next week. I will finish it then.
+# this is not yet complete, my hardware gets here next week. I will finish it then.
 
 
 # RP2040 
